@@ -21,7 +21,11 @@ Day 21:
 ## Screenshots
 
 <img src="https://github.com/vogtmano/Project-2/assets/92689831/a4c21388-1713-494d-89e3-1eef7e4b9a11" width="300" height="520">
-<img src=https://github.com/vogtmano/Project-2/assets/92689831/c3ba8861-e21f-4faa-a38b-b8725924e759" width="300" height="520">
-<img src=https://github.com/vogtmano/Project-2/assets/92689831/b0fb64e4-2ec3-4644-a5e2-d7fafbe77442" width="300" height="520">
-<img src=https://github.com/vogtmano/Project-2/assets/92689831/5b99df01-dfaa-421b-92f2-e3511432a797" width="300" height="520">
-<img src=https://github.com/vogtmano/Project-2/assets/92689831/01c94ae1-73a4-40c7-9391-81433bcb7157" width="300" height="520">
+
+<img src="https://github.com/vogtmano/Project-2/assets/92689831/c3ba8861-e21f-4faa-a38b-b8725924e759" width="300" height="520">
+                                                                                                                             
+<img src="https://github.com/vogtmano/Project-2/assets/92689831/b0fb64e4-2ec3-4644-a5e2-d7fafbe77442" width="300" height="520">
+
+<img src="https://github.com/vogtmano/Project-2/assets/92689831/5b99df01-dfaa-421b-92f2-e3511432a797" width="300" height="520">
+                                                                                                                             
+<img src="https://github.com/vogtmano/Project-2/assets/92689831/01c94ae1-73a4-40c7-9391-81433bcb7157" width="300" height="520">
